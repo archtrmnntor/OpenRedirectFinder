@@ -24,7 +24,6 @@ def print_banner():
     print("")
     print("Usage: ./redirect.py [options]")
     print("")
-    print("Example: ./redirect.py -f subdomains.txt -p payloads.txt -o output.txt")
     print("         ./redirect.py -u http://example.com -p payloads.txt -o output.txt")
     print("")
     print("Color coding:")
