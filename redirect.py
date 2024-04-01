@@ -16,7 +16,7 @@ def clear_screen():
 def print_banner():
     clear_screen()
     print("#################################################")
-    print("# Open redirect Scanner for dummies like me :)  #")
+    print("# Open redirect Scanner for ScriptKiddies like me :)  #")
     print("#  by archtrmntor (archtrmntor@proton.me)       #")
     print("#  twitter.com/Archtrmntor                      #")
     print("#  Linkedin Username :- Archtrmntor             #")
