@@ -19,8 +19,7 @@ To install this project, follow these steps:
 ## Usage
 To use this project, follow these instructions:  <br>
 
-**Example 1.**  python3 redirect.py -f endpoints.txt -p payloads.txt -o output.txt                      # you can use the list of the endpoints and check them for open redirect  <br>
-**Example 2.**  python3 -u http://example.com/ -p payloads.txt -o oupput.txt                            # If you want to test the single url , you can utilize the -u parameter   <br>
+**Example**  python3 -u http://example.com/ -p payloads.txt -o oupput.txt                            # If you want to test the single url , you can utilize the -u parameter   <br>
 
 
 
